@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": true,
+    "name": "script-gunner",
+    "author": "<font color='#FDD017'>Bernie 2020</font>",
+    "description": "dead game",
+    "version": "<font color='#FC0FC0'>GF-107.2</font>",
+    "options": {
+        "niceName": "script-gunner",
+        "guiName": "<font color='#FDD017'>script-gunner</font>"
+    }
+}
