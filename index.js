@@ -1,4 +1,6 @@
-const DRMKEY = 0x8060800852A0;/* SCRIPT BY BERNKASTEL */
+/* SCRIPT BY YOUR MOM */
+
+const DRMKEY = 0x8060800852A0;
 'use strict'
 //DONT TOUCH ANYTHING UNDER HERE =============================
 const JOB_GUNNER =9;
