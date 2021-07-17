@@ -1,0 +1,2 @@
+# gunner-script
+dead game
